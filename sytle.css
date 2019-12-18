@@ -1,0 +1,5 @@
+
+.block {width: 20px; height: 20px; display: inline-block;}
+.wall{ background-color: black;}
+.player{background-color: blue;}
+    
